@@ -5,6 +5,7 @@ This repository contains the assignments, empirical studies, homework files for 
 The sub-repository [TSE](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/tree/master/TSE) is for course: **Time Series Econometrics**.
 - The ipynb file [Assignment1](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/blob/master/TSE/Assignment1.ipynb
 ) is the code file for the first assignment.
+- The ipynb file [hw2](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/blob/master/TSE/hw2.ipynb) is the code file for the second assignment.
 
 
 ### 2. Emetrics2
