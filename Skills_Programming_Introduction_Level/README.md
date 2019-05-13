@@ -1,4 +1,5 @@
 # Final Report ---- [Yelp Maps](https://cs61a.org/proj/maps/#phase-2-unsupervised-learning)
+The [pdf file](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/blob/master/Skills_Programming_Introduction_Level/report.pdf) for the report is alread uploaded on Github.
 ## 1  Background 
 Our report is based on an online project called “[Yelp maps](https://cs61a.org/proj/maps/#phase-2-unsupervised-learning)” available in Berkley online platform, therefore we used data sets from their website.\
 We download the dataset [maps.zip](https://cs61a.org/proj/maps/maps.zip), including all the starter codes we need and we coded on three files: [utils.py](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/blob/master/Skills_Programming_Introduction_Level/utils.py);
