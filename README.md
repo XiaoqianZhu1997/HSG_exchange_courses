@@ -1,4 +1,4 @@
-# HSG_exchange_courses
+# HSG Exchange
 This repository contains the assignments, empirical studies, homework files for the courses in HSG.\
 
 ### 1. TSE
@@ -14,6 +14,8 @@ The sub-repository [Emetrics2](https://github.com/XiaoqianZhu1997/HSG_exchange_c
 
 ### 3. Skills- Advanced Programming for Quantitative Analysis
 The sub-repository [Skills- Advanced Programming for Quantitative Analysis](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/tree/master/Skills-%20Advanced%20Programming%20for%20Quantitative%20Analysis) is for course: **Skills- Advanced Programming for Quantitative Analysis**.
+
+The "Dynamic Programming Tutorial" at [here](https://github.com/XiaoqianZhu1997/HSG/blob/master/Skills-%20Advanced%20Programming%20for%20Quantitative%20Analysis/08_Dynamic_Programming_Tutorial_v2.ipynb).
 
 
 ### 4. Skills- Programming - Introduction Level
