@@ -13,10 +13,10 @@ The sub-repository [Emetrics2](https://github.com/XiaoqianZhu1997/HSG_exchange_c
 
 
 ### 3. Skills- Advanced Programming for Quantitative Analysis
-The sub-repository [Skills- Advanced Programming for Quantitative Analysis](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/tree/master/Skills-%20Advanced%20Programming%20for%20Quantitative%20Analysis) is for course: **Skills- Advanced Programming for Quantitative Analysis**.
+The sub-repository [Skills_Advanced_Programming_for_Quantitative_Analysis](https://github.com/XiaoqianZhu1997/HSG/blob/master/Skills_Advanced_Programming_for_Quantitative_Analysis) is for course: **Skills- Advanced Programming for Quantitative Analysis**.
 
-The "Dynamic Programming Tutorial" at [here](https://github.com/XiaoqianZhu1997/HSG/blob/master/Skills-%20Advanced%20Programming%20for%20Quantitative%20Analysis/08_Dynamic_Programming_Tutorial_v2.ipynb).
+The "Dynamic Programming Tutorial" at [here](https://github.com/XiaoqianZhu1997/HSG/blob/master/Skills_Advanced_Programming_for_Quantitative_Analysis/08_Dynamic_Programming_Tutorial_v2.ipynb).
 
 
 ### 4. Skills- Programming - Introduction Level
-The sub-repository [Skills- Programming - Introduction Level](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/tree/master/Skills-%20Programming%20-%20Introduction%20Level) is for course: **Skills- Programming - Introduction Level**.
+The sub-repository [Skills_Programming_Introduction_Level](https://github.com/XiaoqianZhu1997/HSG_exchange_courses/tree/master/Skills-%20Programming%20-%20Introduction%20Level) is for course: **Skills- Programming - Introduction Level**.
